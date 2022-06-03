@@ -1,0 +1,28 @@
+body {
+	background-color: #FFFFFF;
+}
+
+
+form { 
+		border:2px ridge #000080;
+		float: left;
+		padding: 3px;
+		margin-left: 500px;
+		margin-top: 1px;
+		font: 14px verdana,sans serif;
+		color: #000080;
+}
+
+
+form input {	
+		padding:5px 5px;
+		width: 250px;
+		display: inline;
+}
+
+
+form textarea {
+	width: 200px;
+	display: block;
+}
+
